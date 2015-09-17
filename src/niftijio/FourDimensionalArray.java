@@ -54,4 +54,5 @@ public class FourDimensionalArray {
     public int sizeY() {return ny;}
     public int sizeZ() {return nz;}
     public int dimension() {return dim;}
+    public double[] getData() { return data; }
 }
